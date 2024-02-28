@@ -1,0 +1,92 @@
+body{
+    background: url(IMAGENES/FONDO2.0.png) ;
+    scrollbar-color: #40BBFE #000000;
+    scrollbar-width: auto;  
+}
+.titulo {
+    text-align: center;
+    color: #FFFFFF;
+}
+input {
+    text-transform: lowercase;
+    
+}
+.main {
+    width: 100% ;
+    text-align: center;
+    align-items: center;
+}
+.caja_1 {
+    width: 100% ;
+    text-align: center;
+}
+.caja_2 {
+    width: 100% ;
+    text-align: center;
+}
+.btn{
+    background-color: #40BBFE;
+    width: 250px;
+    height:40px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    margin: 10px 20px 5px 20px;
+}
+
+
+
+.text-input {
+    width: 940px;
+    margin: 0 100px 0 100px;
+    padding: 50px ;
+    height: 80%;
+    border-radius: 10px;
+    border: 2px solid #000000;
+}
+.text-input-salida {
+    width: 940px;
+    margin: 0 100px 0 100px;
+    padding: 50px ;
+    height: 80%;
+    border-radius: 10px;
+    border: 2px solid #000000;
+
+}
+
+.TEXTO-B {
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 20%;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+body p {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear:left;
+}
+
+
+
+
+/*ENCABEZADO*/
+footer{
+    text-align: center;
+    background: url(IMAGENES/FOOTER.jpg) center; 
+    padding:40px;
+}
+.imagen-footer {
+    box-shadow: 5px #000000;
+}
+.copyright{
+    color:#FFFFFF;
+    font-size: 13px;
+    margin:20px;
+}
